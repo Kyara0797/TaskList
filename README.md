@@ -25,7 +25,7 @@ A simple desktop application built with **Python** and **PyQt5** for managing yo
 ### 1. **Clone the repository**
 
 ```markdown
-git clone https://github.com/YOUR_USERNAME/TaskList.git
+git clone https://github.com/Kyara0797/TaskList.git
 cd TaskList
 ```
 ### 2. **Create a virtual environment** (recommended)
