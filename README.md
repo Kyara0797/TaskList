@@ -16,7 +16,8 @@ A simple desktop application built with **Python** and **PyQt5** for managing yo
 
 ## 🖥️ GUI Preview
 
-![screenshot]([https://via.placeholder.com/400x300.png?text=Task+List+App+GUI](https://github.com/Kyara0797/TaskList/blob/main/images/Reference_Project_Task_List.png))
+![screenshot](https://github.com/Kyara0797/TaskList/blob/main/images/Reference_Project_Task_List.png)
+
 
 ---
 
