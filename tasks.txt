@@ -1,0 +1,6 @@
+Create a Python program|1
+Review Python program|1
+Test Python program|1
+Create requirements.txt|1
+Save on git|0
+Save the reference(git)|0
